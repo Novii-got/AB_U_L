@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <XMLFILE>
 	<Main>
-		<version>1.0</version>
+		<version>0.5.1</version>
+		<version_L>1.0</version_L>
 	</Main>
 </XMLFILE>
